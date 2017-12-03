@@ -1,11 +1,5 @@
 'use strict';
 
-import {
-    Error
-} from 'mongoose';
-
-'use strict';
-
 var Model = require('../model/task');
 
 var task = {};
